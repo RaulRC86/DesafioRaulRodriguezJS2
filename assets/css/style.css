@@ -1,0 +1,2 @@
+.bodyIMG{display: flex; justify-content: center; align-items: center; margin-top: 50px;}
+.bodyIMG img{width: 30vw; height: auto; border: none red;}
